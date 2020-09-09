@@ -1,0 +1,9 @@
+export const LIST_ALL = "LIST_ALL";
+export const SAVE_CUSTOMER = "SAVE_CUSTOMER";
+export const TOGGLE_FORM = "TOGGLE_FORM";
+export const CLOSE_FORM = "CLOSE_FORM";
+export const OPEN_FORM = "OPEN_FORM";
+export const DELETE_CUSTOMER = "DELETE_CUSTOMER";
+export const EDIT_CUSTOMER = "EDIT_CUSTOMER";
+export const SEARCH_NAME = "SEARCH_NAME";
+export const SORT = "SORT";
